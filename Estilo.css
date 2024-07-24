@@ -1,0 +1,39 @@
+h2{
+    font-family:cursive;
+    font-size:40px;
+    position:relative;
+    cursor:pointer;
+    color:#665533;
+    left:100px;
+    top:100px;
+}
+input{
+    font-family:monospace;
+    font-size:15px;
+    text-align:center;
+    border-style:solid;
+    border-width:0px;
+    box-shadow:0 0 100px;
+    border-radius:100px;
+    color:red;
+    cursor:pointer;
+    position:relative;
+    left:100px;
+    top:200px;
+}
+button{
+    font-family:monospace;
+    font-size:13px;
+    text-aling:center;
+    border-style:solid;
+    border-width:0px;
+    border-radius:0 20px 100px;
+    font-size:15px;
+    position:relative;
+    cursor:pointer;
+    right:30px;
+    top:230px;
+    background-color:#887644;
+}
+body{ background-image:url("https://i.pinimg.com/originals/bc/36/11/bc36118c9c35ef4963529e5d63036d22.gif");
+}
